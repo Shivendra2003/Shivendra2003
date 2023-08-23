@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shivendra Singh</h1>
+<h1 align="center">Shivendra Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivendra2003&label=Profile%20views&color=0e75b6&style=flat" alt="shivendra2003" /> </p>
